@@ -1,5 +1,5 @@
 # Overview
 I have learned a lot of general concepts within the machine-learning universe with ideas like MLPs, optimization problems, and the big hot topic Transformers (we've all read Attention is all you need), but I want this repository to be specific to the applications machine learning can have on robotics. With reinforcement learning taking over model predictive control as the new state of the art, it is only right to keep up with the robotics world by diving deeper into ML. This repository's goal is to keep my learning centralized instead of having dozens of downloaded PDFs and stray jupyter notebooks in my laptop's download folder. The dream would be to have a short Readme file for each paper I read, project I complete, and github repo I use detailing what I learned and accomplished in my own words. This will help solidify loose concepts and serve as a reference for brush-ups on old topics.
 
-###TLDR
+### TLDR
 A central place to showcase my learning. Otherwise, it gets lost in local Jupyter notebooks or is confined to reading journals. My main goal with this is to write out code that is relevant to ML+Robotics, with an emphasis on RL. 
