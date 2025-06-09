@@ -1,0 +1,23 @@
+*.pyc
+__pycache__/
+
+# Archives
+*.zip
+
+# Images
+*.png
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Other common files you might want to ignore
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Ignore virtual environment folders (optional)
+venv/
+env/
+
