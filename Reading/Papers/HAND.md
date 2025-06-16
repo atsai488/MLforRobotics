@@ -29,4 +29,4 @@ Robots need large expert operated datasets that are fine tuned for the robot to 
 2. Could the testing data be then reincorporated into the training data? One of the blockers I see is needing that large offline training dataset that the model was already trained on, defeating the purpose of adaptability in some sense.
 
 #### Link
-[link] https://arxiv.org/pdf/2505.20455 Labs: GLAMOR and Lira
+[link] (https://arxiv.org/pdf/2505.20455) Labs: GLAMOR and Lira

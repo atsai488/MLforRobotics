@@ -31,4 +31,4 @@ Using light weight models/embeddings can help speed up the process of training. 
 1. Implicit Q-Learning and how it works. A concept I do not understand. 
 2. The current method to offer dense feed back through limited data is by creating fake data. Are there optimization algorithms that could better take advantage of more information being leaked out of human demonstrations instead? Giving the demos a richer meaning.
 #### Link
-[link] https://arxiv.org/pdf/2505.10911 Labs: GLAMOR, Lira, and Amazon
+[link] (https://arxiv.org/pdf/2505.10911) Labs: GLAMOR, Lira, and Amazon
