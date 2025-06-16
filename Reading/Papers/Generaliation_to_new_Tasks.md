@@ -11,4 +11,4 @@
 # Questions I have/Future works
 
 #### Link
-[link] (https://openreview.net/pdf?id=M1v4y0rbFS)  Labs: Lira
+[link](https://arxiv.org/pdf/2505.10911)  Labs: Lira
